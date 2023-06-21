@@ -10,7 +10,7 @@ module.exports = (systemName = '') => {
   if (print && print.log) {
     print.log(
       `%c${systemName} Document LastModified:`,
-      'color: #fff;backfround-color:green;border-radius:3px;font-size:4px;padding:2px 5px',
+      'color: #fff;background-color:green;border-radius:3px;font-size:4px;padding:2px 5px',
       document.lastModified
     );
   }
