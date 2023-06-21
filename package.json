@@ -1,6 +1,6 @@
 {
   "name": "last-modify-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The console outputs document.lastModified information to help identify whether the deployment was successfully applied",
   "main": "index.js",
   "scripts": {
